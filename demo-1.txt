@@ -1,0 +1,4 @@
+Number Systems: Foundations Revision Notes
+Subject: Mathematics   Level: basic   Format: pdf
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded pdf on 'Number Systems', stored in Azure Blob Storage.

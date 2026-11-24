@@ -1,0 +1,4 @@
+Algebra: Step-by-step Video Lesson
+Subject: Mathematics   Level: basic   Format: video
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded video on 'Algebra', stored in Azure Blob Storage.

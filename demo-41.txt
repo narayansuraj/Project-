@@ -1,0 +1,4 @@
+Work and Energy: Foundations Revision Notes
+Subject: Science   Level: basic   Format: pdf
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded pdf on 'Work and Energy', stored in Azure Blob Storage.

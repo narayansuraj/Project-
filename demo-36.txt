@@ -1,0 +1,4 @@
+Gravitation: Foundations Revision Notes
+Subject: Science   Level: basic   Format: pdf
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded pdf on 'Gravitation', stored in Azure Blob Storage.

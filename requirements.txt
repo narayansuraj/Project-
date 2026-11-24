@@ -1,0 +1,4 @@
+Flask>=3.0
+gunicorn>=22.0
+# Optional - only needed for Azure Blob Storage mode:
+# azure-storage-blob>=12.19

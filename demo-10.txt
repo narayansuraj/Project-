@@ -1,0 +1,4 @@
+Algebra: Challenge Problems
+Subject: Mathematics   Level: advanced   Format: document
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded document on 'Algebra', stored in Azure Blob Storage.

@@ -1,0 +1,4 @@
+Work and Energy: Guided Practice Worksheet
+Subject: Science   Level: intermediate   Format: practice
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded practice on 'Work and Energy', stored in Azure Blob Storage.

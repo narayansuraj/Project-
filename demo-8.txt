@@ -1,0 +1,4 @@
+Algebra: Guided Practice Worksheet
+Subject: Mathematics   Level: intermediate   Format: practice
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded practice on 'Algebra', stored in Azure Blob Storage.

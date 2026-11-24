@@ -1,0 +1,4 @@
+Sound: Challenge Problems
+Subject: Science   Level: advanced   Format: document
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded document on 'Sound', stored in Azure Blob Storage.

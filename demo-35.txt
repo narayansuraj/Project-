@@ -1,0 +1,4 @@
+Force and Laws: Challenge Problems
+Subject: Science   Level: advanced   Format: document
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded document on 'Force and Laws', stored in Azure Blob Storage.

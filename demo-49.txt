@@ -1,0 +1,4 @@
+Sound: Concept Explainer Article
+Subject: Science   Level: intermediate   Format: article
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded article on 'Sound', stored in Azure Blob Storage.

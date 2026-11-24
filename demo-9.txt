@@ -1,0 +1,4 @@
+Algebra: Concept Explainer Article
+Subject: Mathematics   Level: intermediate   Format: article
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded article on 'Algebra', stored in Azure Blob Storage.

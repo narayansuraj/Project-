@@ -1,0 +1,4 @@
+Statistics: Concept Explainer Article
+Subject: Mathematics   Level: intermediate   Format: article
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded article on 'Statistics', stored in Azure Blob Storage.

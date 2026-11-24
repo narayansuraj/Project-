@@ -1,0 +1,4 @@
+Sound: Step-by-step Video Lesson
+Subject: Science   Level: basic   Format: video
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded video on 'Sound', stored in Azure Blob Storage.

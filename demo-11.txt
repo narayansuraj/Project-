@@ -1,0 +1,4 @@
+Geometry: Foundations Revision Notes
+Subject: Mathematics   Level: basic   Format: pdf
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded pdf on 'Geometry', stored in Azure Blob Storage.

@@ -1,0 +1,4 @@
+Force and Laws: Concept Explainer Article
+Subject: Science   Level: intermediate   Format: article
+
+[Demo placeholder] In a real deployment this is the teacher's uploaded article on 'Force and Laws', stored in Azure Blob Storage.
